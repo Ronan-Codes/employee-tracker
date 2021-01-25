@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galv-ronan/employee-tracker.git"
+  },
+  "author": "Ronan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galv-ronan/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/galv-ronan/employee-tracker#readme",
+  "dependencies": {
+    "console-table": "^0.1.2",
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "inquirer-menu": "^1.0.0",
+    "mysql2": "^2.2.5"
+  }
+}
