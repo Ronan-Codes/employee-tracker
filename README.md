@@ -31,7 +31,7 @@
 * Insert data from seeds.sql into employeeDB tables.
 
 ## Usage
-* Watch this [Walkthrough Video](insert link) to observe the application's workflow.
+* Watch this [Walkthrough Video](https://drive.google.com/file/d/1sGx5RlizEY8m1fIw7iQMrxqpTgyf-jlL/view) to observe the application's workflow.
 
 ## Questions
 * Email me for any questions: galv.ronan@gmail.com
